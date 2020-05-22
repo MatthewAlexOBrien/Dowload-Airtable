@@ -11,6 +11,6 @@ LoadPackages.R -- List of packages you will need.
 
 Airtable Credentials.R -- This is where you can pull your API credentials from as envirnoment variables. 
 
-Static Functions -- This folder is where most of the heavy lifting is done. You wont have to touch anything in here, but if your curious about how some of the functions defined in here work, feel free to send an email to matthewalexobrien@gmail.com.
+Static Functions -- This folder is where most of the heavy lifting is done. You wont have to touch anything in here, but if you're curious about how some of the functions defined in here work, feel free to send an email to matthewalexobrien@gmail.com.
 
 
